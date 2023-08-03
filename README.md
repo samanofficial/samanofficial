@@ -17,8 +17,8 @@
 ## Technologies & Tools :
 <p align="center">
 <img alt="Linux" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/linux.svg" />
-<img  alt="Flutter" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/flutter.svg" />
-<img alt="Dart" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/dart.svg" />
+
+
 <img alt="Html" height="22" width="22" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" />
 <img alt="Css" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/css3.svg" />
 <img alt="AndroidStudio" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/androidstudio.svg" />
